@@ -1,0 +1,46 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3
+{
+    display: inline;
+}
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+.bigImage
+{
+    width: 100%;
+}
+#start, #status
+{
+    font-size: 22px;
+}
+h4
+{
+    background-color: rgb(240, 59, 59);
+    line-height: 2;
+    margin: 0px;
+}
+.instructionImage
+{
+    display: inline-block;
+    width: 45%;
+}
+.modal-dialog
+{
+    width: 80%;
+
+}
+video
+{
+    background: url('mockup-cartoon-video-gamer-joystick-device-digital-gadget-controller-portable-gamepad-gaming-play-free-vector-removebg-preview.png');
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 21px;
+    padding-top: 31.3px;
+}
